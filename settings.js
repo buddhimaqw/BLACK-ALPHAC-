@@ -36,17 +36,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['947761008498'] //ur owner number
-global.ownername = "DILINA" //ur owner name
+global.vcardowner = ['94712751525'] //ur owner number
+global.ownername = "𝘽𝙇𝘼𝘾𝙆 𝘿𝙀𝙑𝙄𝙇☬" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94761008498']
-global.ownertag = '94761008498' //ur tag number
-global.botnumber = '94783652277' //Add your Bot Number For Log
-global.botname = 'BLACK ALPHA' //ur bot name
+global.owner = ['94787487073']
+global.ownertag = '94712751525' //ur tag number
+global.botnumber = '94712751525' //Add your Bot Number For Log
+global.botname = '𝘽𝙇𝘼𝘾𝙆 𝘿𝙀𝙑𝙄𝙇☬' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
